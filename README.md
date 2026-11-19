@@ -9,6 +9,7 @@ M.Sc. Electrical Engineering & Information Technology Specialisation: Automation
 - **[ESP32 Smart Home Controller](https://github.com/asfandmughal007/esp32-smart-home-controller)**: Smart home control system running on ESP32 microcontrollers.
 - **[Edge OTA Platform](https://github.com/asfandmughal007/edge-ota-platform)**: Over-the-air update platform for deploying firmware and software to edge devices.
 - **[Smart Distribution Grid](https://github.com/asfandmughal007/smart-distribution-grid)**: Python framework simulating the IEEE 33-bus feeder with PV, EV charging and battery, optimised with Pyomo and validated by AC power flow in pandapower.
+- **[Automatic Metering Infrastructure](https://github.com/asfandmughal007/automatic-metering-infrastructure)**: Low-cost smart energy meters built on Arduino with XBee mesh and GPRS links to a utility server for remote monitoring and billing.
 
 ## Contact
 
